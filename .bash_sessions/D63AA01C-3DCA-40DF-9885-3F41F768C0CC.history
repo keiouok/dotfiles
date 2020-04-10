@@ -1,0 +1,75 @@
+ls
+exit
+ls
+brew install git
+exit
+ls
+cd Documents
+ls
+ls
+cd ..
+ls
+ cd Mu
+ cd Music
+ls
+cd iTunes/
+ls
+cd Album\ Artwork/
+s
+ls
+cd ..
+cd .
+ls
+cd ..
+ls
+cd ..
+s
+ks
+ls
+cd Downloads/
+ls
+rm -rf IPSJ-NL17231021.pdf 
+ls
+cd ..
+ls
+cd Library/
+ls
+cd ..
+ls
+Movies/
+ls
+mkdir workspace
+ls
+cd workspace/
+ls
+git clone https://github.com/keiouok/Kononote.git
+bash
+ls
+sudo apt-get install git
+git --version
+brew install git
+bash
+dir
+git clone https://github.com/keiouok/Kononote.git
+git clone https://github.com/keiouok/Kononote.git
+ls
+ls
+git clone https://github.com/keiouok/Kononote.git
+ls
+cd Kononote/
+ls
+mkdir M1
+ls
+cd M1
+ls
+cp ../README.md ./
+ls
+vim README.md 
+ls
+ls
+ls
+ls
+top
+hwprefs cpu_count
+free
+ps
