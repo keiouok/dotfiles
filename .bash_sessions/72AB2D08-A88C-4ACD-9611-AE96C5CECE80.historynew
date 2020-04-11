@@ -1,0 +1,56 @@
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd workspace/
+ls
+cd mydots/
+ls
+cd macOS/
+ls
+vim install.sh 
+bash install.sh 
+brew install git
+bash install.sh 
+vim 
+vim ~/.bash_profile 
+vim 
+xls
+ls
+vim ~/.bash_profile 
+cd ~/.vim/
+ls
+cd bundle/
+ls
+cd YouCompleteMe/
+ls
+python install.py
+vim install.sh 
+vim install.sh 
+bash install.sh 
+bash install.sh 
+vim /Users/youjia-hu/.pyenv/versions/3.6.5/bin/python3
+ls
+vim install.py 
+vim install.sh 
+ls
+ls
+vim
+ls
+cd ..
+ls
+cd ..
+ls
+cd bundle/
+python3
+cd ..
+cd ..
+cd dotfiles/
+l
+ls
+vim homebrew_install.sh 
+vim
+exec $SHELL

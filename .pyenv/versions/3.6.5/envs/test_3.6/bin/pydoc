@@ -1,0 +1,4 @@
+#!/Users/youjia-hu/.pyenv/versions/3.6.5/envs/test_3.6/bin/python
+import pydoc
+if __name__ == '__main__':
+      pydoc.cli()

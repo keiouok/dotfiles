@@ -1,0 +1,222 @@
+ls
+exit
+ls
+brew install git
+exit
+ls
+cd Documents
+ls
+ls
+cd ..
+ls
+ cd Mu
+ cd Music
+ls
+cd iTunes/
+ls
+cd Album\ Artwork/
+s
+ls
+cd ..
+cd .
+ls
+cd ..
+ls
+cd ..
+s
+ks
+ls
+cd Downloads/
+ls
+rm -rf IPSJ-NL17231021.pdf 
+ls
+cd ..
+ls
+cd Library/
+ls
+cd ..
+ls
+Movies/
+ls
+mkdir workspace
+ls
+cd workspace/
+ls
+git clone https://github.com/keiouok/Kononote.git
+bash
+ls
+sudo apt-get install git
+git --version
+brew install git
+bash
+dir
+git clone https://github.com/keiouok/Kononote.git
+git clone https://github.com/keiouok/Kononote.git
+ls
+ls
+git clone https://github.com/keiouok/Kononote.git
+ls
+cd Kononote/
+ls
+mkdir M1
+ls
+cd M1
+ls
+cp ../README.md ./
+ls
+vim README.md 
+ls
+ls
+ls
+ls
+top
+hwprefs cpu_count
+free
+ps
+cd workspace/
+cd M1
+ls
+cd Kononote/
+cd M1/
+vim README.md 
+vim README.md 
+vim ~/.vimrc
+vim README.md 
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/hiro-o918/mydots.git
+ls
+ls
+cd mydots/
+ks
+ls
+cd macOS/
+ls
+bash install.sh 
+ls
+cd ..
+ls
+cd ..
+ls
+cd Kononote/
+ls
+cd M1/
+ls
+vim README.md 
+vim README.md 
+vim README.md 
+pip install python
+vim README.md 
+ls
+vim README.md 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+ls
+brew install python
+ls
+exit
+brew cask install pycharm-ce
+pycharm
+pycharm-ce
+charm
+charm
+ls
+cd ..
+ls
+cd workspace
+ls
+python -m venv venv
+ls
+source venv/bin/activate
+ls
+python -v
+python -v
+python -V
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd youjia-hu/
+cd workspace/
+ls
+mv venv/ ./
+ls
+mv venv/ ../
+ls
+cd ..
+ls
+mv venv/ venv3.6.5
+mkdir venv
+mv venv3.6.5/ venv
+cd venv/
+ls
+deactivate
+source activate venv3.6.5/
+ls
+source activate venv
+.
+ls
+mv venv3.6.5/ ../
+ls
+cd ..
+ls
+rm -rf venv
+ls
+mv venv3.6.5/ workspace/
+cd workspace/
+ls
+mv venv3.6.5/ venv
+source activate venv/
+source activate venv/bin/activate
+ls
+vim venv/bin/activate
+source activate venv/bin/activate
+rm -rf venv/
+ls
+cd ..
+ls
+mkdir project
+cd project/
+ls
+python -m venv py3.6.5
+lls
+ls
+source activate py3.6.5/bin/activate
+source activate py3.6.5/bin/activate
+python
+source py3.6.5/bin/activate
+ls
+python3
+ls
+python3.7
+python2.7
+cp py3.6.5 ../
+cp -r py3.6.5/ ../
+ls
+cd ..
+ls
+deactivate
+ls
+cd project/
+ls
+rm -rf ../pyvenv.cfg 
+ls
+source py3.6.5/bin/
+source py3.6.5/bin/activate
+deactivate
+ls
+python2.7 -m venv py2.7.16
+python2.7 -m venv py2.7.16
+ls
+cd ..
+ls
+cd atcoder/
+ls
+python3 -m venv py3.6.5
+ls
+source activate py3.6.5/
+source py3.6.5/bin/activate
+exit
