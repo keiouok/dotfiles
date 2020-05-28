@@ -1,3 +1,9 @@
- Home is on local pc,
+## Please use Main as the base point.
+It includes server setting files.
 
- ServerHome is on home directory in LDAP server.
+Trying pyenv-virtualenv
+
+```
+pyenv virtualenv <pyenv> <new_virtualenv>
+```
+
